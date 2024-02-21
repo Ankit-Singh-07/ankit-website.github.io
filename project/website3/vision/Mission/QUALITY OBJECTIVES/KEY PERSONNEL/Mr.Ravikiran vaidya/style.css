@@ -1,0 +1,19 @@
+.wa{
+    margin-right: 3%;
+   color: black;
+}
+.wo{
+    margin-left: 50px;
+}
+.container h2{
+    margin-left: 33%;
+    margin-top: 2%;
+}
+.container p{
+    margin-left: 28%;
+    font-size: 18px;
+}
+.container h6{
+    margin-left: 33%;
+    border-bottom: 5%;
+}
